@@ -1,9 +1,5 @@
 #include <Arduino.h>
-
-// XIAO ESP32-C3 上 ADC 可用引脚
-// A0 = GPIO2
 #define ADC_PIN A0
-
 #define ADC_MAX 4095.0
 #define VREF 3.3
 
